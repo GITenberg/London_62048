@@ -1,0 +1,34 @@
+_repo: London_62048
+_version: 0.0.1
+contributor:
+  photographer:
+    agent_name: Coburn, Alvin Langdon
+    alias: Coburn, A. L. (Alvin Langdon)
+    birthdate: 1882
+    deathdate: 1966
+    gutenberg_agent_id: '39974'
+    url: http://www.gutenberg.org/2009/agents/39974
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
+description: ''
+gutenberg_issued: '2020-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: London
+url: http://www.gutenberg.org/ebooks/62048
